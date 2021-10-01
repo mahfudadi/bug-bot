@@ -1,3 +1,8 @@
+# hyper-bot v3
+
+WhatsApp bug Bot
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/bug-bot)
 # ```SELF-BUG-BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
@@ -26,7 +31,7 @@
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/HYPER-MOD/bug-bot/blob/main/src/settings.json#L2)
+- Owner number [Here](https://github.com/HYPER-MOD/bug-bot/blob/main/src/settings.json#L1)
 
 ## `CHANGE DYNO`
 
@@ -35,23 +40,19 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/kqc6KDBw3j0"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/kqc6KDBw3j0)<br>
+[`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/kqc6KDBw3j0"><img src="https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg" />
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
 
-
-## ```Spacial thanks```
-
-[`Click Here join`](https://chat.whatsapp.com/E3mdgudd61Y0vxLLJxbX9c)
 
 ## ```COFFEE```
 
