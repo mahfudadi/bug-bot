@@ -4,7 +4,7 @@
 /* . SL TERROR FAMILY*/
 
 const help = (prefix,shp,monoscape) => {
-	return ` ╔══ > ⚠️ bug command ⚠️
+	return ` ╔══ > ⚠️🗿NANTI NANGES🗿⚠️
 ║♨️${prefix}𝕧𝕨𝕖𝕓 
 ║♨️${prefix}𝕧𝕚𝕣𝕘𝕒𝕞 
 ║♨️${prefix}𝕧𝕚𝕣𝕥𝕒𝕘 
@@ -26,7 +26,7 @@ const help = (prefix,shp,monoscape) => {
 ║♨️${prefix}𝕓𝕦𝕘𝕜𝕠𝕟𝕥𝕒𝕜 
 ║♨️${prefix}𝕓𝕦𝕘𝕘𝕔 [ 𝕋𝕠𝕥𝕒𝕝𝕊𝕡𝕒𝕞 ] 
 ║♨️${prefix}𝕤𝕖𝕟𝕕𝕓𝕦𝕘
-╚══✮✮  𝘏𝘠𝘗𝘌𝘙 咽翁 𝔹𝕆𝕋 ✮✮ 
+╚══✮✮ ꪶ𖣂ꫂ𝙷𝚄𝙽𝚃𝙴𝚁〄 咽翁 𝔹𝕆𝕋 ✮✮ 
 
 ╔══>  🏷️ All Menu 🏷️
 ║🏷${prefix}𝕒𝕕𝕕 
@@ -142,7 +142,7 @@ const help = (prefix,shp,monoscape) => {
 ║🏷️${prefix}𝕪𝕥𝕤𝕖𝕒𝕣𝕔𝕙
 ║🏷️x
 ║🏷️$
-╚══✮✮  𝘏𝘠𝘗𝘌𝘙 咽翁 𝔹𝕆𝕋 ✮✮ 
+╚══✮✮  ꪶ𖣂ꫂ𝙷𝚄𝙽𝚃𝙴𝚁〄 咽翁 𝔹𝕆𝕋 ✮✮ 
 
 ╔══> 🔖  Random Menu 🔖
 ║🔖${prefix}𝕒𝕕𝕕𝕚𝕞𝕘
@@ -157,20 +157,20 @@ const help = (prefix,shp,monoscape) => {
 ║🔖${prefix}𝕒𝕕𝕕𝕧𝕚𝕕
 ║🔖${prefix}𝕝𝕚𝕤𝕥𝕧𝕚𝕕
 ║🔖${prefix}𝕘𝕖𝕥𝕧𝕚𝕕
-╚══✮✮  𝘏𝘠𝘗𝘌𝘙 咽翁 𝔹𝕆𝕋 ✮✮ 
+╚══✮✮  ꪶ𖣂ꫂ𝙷𝚄𝙽𝚃𝙴𝚁〄 咽翁 𝔹𝕆𝕋 ✮✮ 
 
 ╔══> DEVELOPER 👨‍💻
-║Channel: https://youtube.com/c/HYPERMOD
-║github: https://github.com/HYPER-MOD
-║Whatsapp: wa.me/94767043432
-╚══> HYPER DEVELOPER ✉️
+
+║github: https://github.com/mahfudadi
+║Whatsapp: wa.me/6281515491868
+╚══> ꪶ𖣂ꫂ𝙷𝚄𝙽𝚃𝙴𝚁〄 DEVELOPER ✉️
 
 ╔══> 💕💕  Thanks To  💕💕
-║ 💞 SUPUN
-║ 💞 SL TERROR FAMILY
-║ 💞 APP HORU OFC
-║ 💞 SUBSCRIBE CHANNEL HYPER MOD
-╚══>💗💗  𝘏𝘠𝘗𝘌𝘙 咽翁 𝔹𝕆𝕋`
+║ 💞 ALLAH
+║ 💞 MY FAMILY
+║ 💞 BEST FRIEND
+║ 💞 ALL🗿
+╚══>💗💗  ꪶ𖣂ꫂ𝙷𝚄𝙽𝚃𝙴𝚁〄 咽翁 𝔹𝕆𝕋`
 }
 
 exports.help = help
