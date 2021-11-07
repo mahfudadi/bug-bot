@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-bot",
   "description": "whatsapp bot build with nodejs",
-  "repository": "https://github.com/HYPER-MOD/bug-bot",
+  "repository": "https://github.com/mahfudadi/bug-bot",
   "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
 }
